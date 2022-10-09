@@ -1,0 +1,14 @@
+CSS Pitfalls:
+
+
+- No encapsulation
+
+- No variables
+
+- Not composable
+
+- Bad modularity primitives
+
+- Globals
+
+- Beating into submission-driven-development 

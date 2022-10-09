@@ -1,0 +1,28 @@
+Sass Workshop from Frontend Masters
+
+- We are leveraging the fundamentals of Sass pre-processing to empower our CSS practices and mastering styling
+complex applications. 
+
+
+We learn here;
+
+- How styles can be modularized and reused avoiding repetition and redundancy while keeping everything readable 
+and maintainable.
+
+- How to avoid common CSS pitfalls by using Sass for compiling CSS rules automatically
+
+- How to employ Sass variables to reuse CSS declarations in order to reduce redundancy and improve maintaianability,
+
+- How to use predefined Sass functions and custom Sass mixins to quickly build out theme,
+
+- How to reduce HTTP requests by using the Sass at import directive,
+
+- We will also see how to easily create complex color schemes for web applications,
+
+- How to reduce code repetition by sharing CSS properties from one selector to another, using the extend directive,
+
+- How to modularize your Sass by using Sass partials and includes,
+
+- How to use nesting and Sass selectors, like parent selector, to easily create complex yet easy to maintain 
+CSS rules. 
+

@@ -12,3 +12,6 @@ CSS Pitfalls:
 - Globals
 
 - Beating into submission-driven-development 
+
+
+The common css pitfalls

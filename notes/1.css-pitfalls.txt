@@ -1,4 +1,4 @@
-CSS Pitfalls:
+1.CSS Pitfalls:
 
 
 - No encapsulation,
